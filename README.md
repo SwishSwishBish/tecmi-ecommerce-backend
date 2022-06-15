@@ -1,9 +1,9 @@
-<strong> < Check out the frontend > </strong>
+<p align=end><strong><a href="https://github.com/SwishSwishBish/tecmi-ecommerce-frontend"> < Check out the frontend > </a></strong></p>
 
 # <p align=center>Tecmi E-Commerce</p>
 <p align="center"><img 
     style="width: 70%;"
-    src="images\tecmi-1.png" 
+    src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-1.png" 
     alt="Our logo">
 </img></p>
 <p align="center">
@@ -90,15 +90,15 @@ This project is a web-based e-commerce application developed with Java, Spring B
 
 ## Demo
 
-<p align="center"><img width=700 src="images\tecmi-gif.gif" alt="demo"/></p>
-<p align="center"><img width=700 src="images\tecmi-2.png" alt="demo"/></p>
-<p align="center"><img width=700 src="images\tecmi-3.png" alt="demo"/></p>
-<p align="center"><img width=700 src="images\tecmi-4.png" alt="demo"/></p>
-<p align="center"><img width=700 src="images\tecmi-5.png" alt="demo"/></p>
+<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-gif.gif" alt="demo"/></p>
+<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-2.png" alt="demo"/></p>
+<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-3.png" alt="demo"/></p>
+<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-4.png" alt="demo"/></p>
+<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-5.png" alt="demo"/></p>
 
 ## Swagger Demo
 
-<p align="center"><img width=700 src="images\swagger-gif.gif" alt="demo"/></p>
+<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/swagger-gif.gif" alt="demo"/></p>
 
 
 ## Connect with me:
