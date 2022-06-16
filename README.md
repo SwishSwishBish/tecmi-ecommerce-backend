@@ -100,6 +100,13 @@ This project is a web-based e-commerce application developed with Java, Spring B
 
 <p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/swagger-gif.gif" alt="demo"/></p>
 
+## Architecture
+
+<p align="center"><img 
+    style="width:  70%;"
+    src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/blob/master/images/diagram.png?raw=true" 
+    alt="Diagram">
+</img>
 
 ## Connect with me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-atak%C3%B6%C5%9Fker-3a79b0235/)
